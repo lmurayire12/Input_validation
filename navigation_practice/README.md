@@ -1,4 +1,4 @@
-# Input Validation Demo
+# Input Validation
 
 A simple Flutter application that demonstrates input validation and multi-screen navigation. The app consists of a registration form with three validated input fields and a confirmation screen. The UI features custom styling with gradient backgrounds, rounded cards, and modern Material Design components.
 
